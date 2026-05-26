@@ -1,0 +1,7 @@
+.env
+.venv/
+user_data/
+run_log.txt
+error_log.txt
+temp_*.pdf
+__pycache__/
