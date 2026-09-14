@@ -5,3 +5,4 @@ run_log.txt
 error_log.txt
 temp_*.pdf
 __pycache__/
+familia_mcp/user_data/
